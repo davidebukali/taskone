@@ -5,12 +5,12 @@ This is a cordova android application that displays api data as a bar or doughnu
 
 ## How to use
 
-Easiest way to get started is by installing the app using an android file inside /bin folder.
+Easiest way to get started is by installing the app using an android file **visualise.apk** inside **/bin** folder.
 
 ## Otherwise; 
 
 1. Clone or download the repo
-2. Import the project into eclipse or any android environment
-3. Make sure you have atleast android 5.1.1 installed in your SDK
+2. Import the project into eclipse or android studio
+3. Make sure you have atleast android 5.1.1 installed in your android SDK
 4. Clean and build the newly imported project
 5. Run the project in an app or emulator
